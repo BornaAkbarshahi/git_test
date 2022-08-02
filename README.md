@@ -1,3 +1,2 @@
 # git_test
-My First Github repo!
-Hello Odin!
+Hello, my name is Borna. and I am sitting with grumpy Lilli :( 
